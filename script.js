@@ -12,7 +12,7 @@ var days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]; // array of all th
 // Selecting HTML element for selecting specific years and months
 var selectYear = document.getElementById("year");
 var selectMonth = document.getElementById("month");
-console.log(selectMonth.value + ", " + selectYear.value);
+    // console.log(selectMonth.value + ", " + selectYear.value);
 
 // Selecting HTML element for today's month and year
 var monthAndYear = document.getElementById("monthAndYear");
