@@ -1,2 +1,2 @@
-# JS-Calendar
-Calendar, made in HTML and vanillaJS
+# js-calendar
+Calendar, made in HTML & JS
