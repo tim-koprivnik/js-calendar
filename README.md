@@ -1,3 +1,3 @@
-# js-calendar
+# Calendar app
 
 Calendar in Javascript.
